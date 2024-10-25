@@ -510,3 +510,7 @@ text-decoration: none;
 .screen_shot_text{
     color: var(--clr-accent);
 }
+
+.my-services .service p {
+    text-align: justify;
+}
